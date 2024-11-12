@@ -1,6 +1,11 @@
 # FCD-2024-25
 
-Data Science Final ProjMasters in Computer Science and Management
+Data Science Final Project - Masters in Computer Science and Management, Iscte.
+
+### Authors
+- Beatriz Santos (127424 – bjsse@iscte-iul.pt)
+- Luiza Coelho (126735 – lvcco@iscte-iul.pt)
+- Miguel Cardoso (131367 – mabco1@iscte-iul.pt)
 
 ## Dependencies
 
@@ -20,7 +25,7 @@ Follow these instructions to set up and run the project locally on your machine.
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/lcopolillo/FCD-2024-25/.git
+git clone https://github.com/lcopolillo/FCD-2024-25.git
 cd repository
 ```
 
